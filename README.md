@@ -1,1 +1,1 @@
-# CP2
+# BoilerplateJS
